@@ -1,0 +1,3 @@
+[submodule "plugins/inputs/zmon/proto"]
+	path = plugins/inputs/zmon/proto
+	url = https://github.com/cnpst/zmon-telegraf-manager-proto.git

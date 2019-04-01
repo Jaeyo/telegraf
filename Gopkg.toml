@@ -52,7 +52,7 @@
 
 [[constraint]]
   name = "github.com/golang/protobuf"
-  version = "1.1.0"
+  revision = "c823c79ea1570fb5ff454033735a8e68575d1d0f"
 
 [[constraint]]
   name = "github.com/google/go-cmp"
